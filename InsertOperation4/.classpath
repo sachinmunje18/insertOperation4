@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/byte-buddy-1.12.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/hibernate-core-5.6.9.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/protobuf-java-3.11.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sachin Raju Munje/Velocity Notes/Hibernate/Jars/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
